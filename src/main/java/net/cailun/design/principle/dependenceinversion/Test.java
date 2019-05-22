@@ -10,7 +10,7 @@ package net.cailun.design.principle.dependenceinversion;
 public class Test {
 
     public static void main(String[] args) {
-        Gelly gelly = new Gelly();
+        Gelly gelly = new Gelly(new JavaCourse());
         gelly.studyCourse(new JavaCourse());
         gelly.studyCourse(new FECourse());
     }
