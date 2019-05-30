@@ -2,9 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c7f3e84-9b04-48d7-b446-27395af38282" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/design_pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/design_pattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/abstractfactory/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/abstractfactory/CourceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/abstractfactory/JavaArticle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/abstractfactory/JavaCourseFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/abstractfactory/JavaVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/abstractfactory/PythonArticle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/abstractfactory/PythonFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/abstractfactory/PythonVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/abstractfactory/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/abstractfactory/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/factorymethod/FEVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/factorymethod/FEVideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/factorymethod/JavaVedio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/factorymethod/JavaVideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/factorymethod/PythonFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/factorymethod/PythonVedio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/factorymethod/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/factorymethod/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/factorymethod/VideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/simplefactory/JavaVedio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/simplefactory/PythonVedio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/simplefactory/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/simplefactory/Video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/creational/simplefactory/VideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/principle/demeter/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/principle/demeter/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/principle/demeter/TeamLeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/principle/demeter/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/principle/interfacesegregation/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/principle/interfacesegregation/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/principle/interfacesegregation/IAnimalAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/principle/interfacesegregation/IEatAnimalAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/principle/interfacesegregation/IFlyAnimalAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/net/cailun/design/principle/interfacesegregation/ISwimAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/abstractfactory/Article.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/abstractfactory/CourceFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/abstractfactory/JavaArticle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/abstractfactory/JavaCourseFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/abstractfactory/JavaVideo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/abstractfactory/PythonArticle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/abstractfactory/PythonFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/abstractfactory/PythonVideo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/abstractfactory/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/abstractfactory/Video.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/factorymethod/FEVideo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/factorymethod/FEVideoFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/factorymethod/JavaVedio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/factorymethod/JavaVideoFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/factorymethod/PythonFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/factorymethod/PythonVedio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/factorymethod/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/factorymethod/Video.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/factorymethod/VideoFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/simplefactory/JavaVedio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/simplefactory/PythonVedio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/simplefactory/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/simplefactory/Video.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/creational/simplefactory/VideoFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/principle/demeter/Boss.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/principle/demeter/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/principle/demeter/TeamLeader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/principle/demeter/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/principle/interfacesegregation/Bird.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/principle/interfacesegregation/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/principle/interfacesegregation/IAnimalAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/principle/interfacesegregation/IEatAnimalAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/principle/interfacesegregation/IFlyAnimalAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/principle/interfacesegregation/ISwimAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/principle/singleresponsibility/CoursseImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/principle/singleresponsibility/ICourse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/principle/singleresponsibility/ICourseContent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/principle/singleresponsibility/ICourseManage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/principle/singleresponsibility/Method.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/net/cailun/design/principle/singleresponsibility/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/net/cailun/design/principle/singleresponsibility/Test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,14 +103,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="2" />
+          <entry key="gitignore" value="3" />
           <entry key="iml" value="1" />
           <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Git file" value="1" />
+          <entry key="Git file" value="2" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="6" />
           <entry key="PLAIN_TEXT" value="1" />
@@ -56,7 +130,17 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -110,6 +194,17 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="design_pattern" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
@@ -157,7 +252,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="principle" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -282,15 +377,16 @@
       <workItem from="1558660420109" duration="771000" />
       <workItem from="1559178118501" duration="327000" />
       <workItem from="1559178501426" duration="732000" />
-      <workItem from="1559179301099" duration="273000" />
+      <workItem from="1559179301099" duration="582000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12720000" />
+    <option name="totallyTimeSpent" value="13029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24624464" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -324,7 +420,7 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info anchor="right" id="Bean Validation" order="8" />
-      <window_info anchor="right" id="Maven Projects" order="9" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.3299356" />
       <window_info anchor="right" id="RestServices" order="10" />
     </layout>
   </component>
@@ -617,13 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/design_pattern.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
@@ -642,6 +731,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
