@@ -8,6 +8,7 @@ package net.cailun.design.creational.abstractfactory;
  * @Version 1.0
  */
 public class JavaArticle extends Article {
+    @Override
     public void getProduce() {
         System.out.println("java手记");
     }

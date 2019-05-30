@@ -8,6 +8,7 @@ package net.cailun.design.creational.abstractfactory;
  * @Version 1.0
  */
 public class PythonArticle extends Article {
+    @Override
     public void getProduce() {
         System.out.println("python课程手记");
     }

@@ -8,6 +8,7 @@ package net.cailun.design.creational.abstractfactory;
  * @Version 1.0
  */
 public class PythonVideo extends Video {
+    @Override
     public void produce() {
         System.out.println("python视频");
     }
